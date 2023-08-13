@@ -1,4 +1,4 @@
-<p align="center"><img src="https://capturly.com/blog/wp-content/uploads/2018/02/Data-Website-Analytics.gif" width="600" height="400" alt="GIF">
+<p align="center"><img src="https://capturly.com/blog/wp-content/uploads/2018/02/Data-Website-Analytics.gif" width="400" height="300" alt="GIF">
 
 
 <h1 align="center">Hi 👋, I'm Hamant Jagwan</h1>
