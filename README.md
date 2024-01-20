@@ -11,7 +11,7 @@
 📖 This experience triggered a realization – **learning isn't confined to degrees; it thrives on curiosity**. 🤔🎓
 I'm passionate about data. 
 
-🔥 **Let's embrace the power of curiosity!* 🌟  
+ 🔥 ***Let's embrace the power of curiosity!*** 🌟  
 
 - 🌱 I’m currently learning **Machine Learning**
 
