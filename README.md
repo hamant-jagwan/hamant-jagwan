@@ -2,7 +2,7 @@
 <h2 align="left">🔥🔥A Passionate Data Enthusiast from India 🔥🔥</h2>
 
 
-<img align="right" img src="https://capturly.com/blog/wp-content/uploads/2018/02/Data-Website-Analytics.gif" width="320" height="290" alt="GIF">
+<img align="right" img src="https://capturly.com/blog/wp-content/uploads/2018/02/Data-Website-Analytics.gif" width="320" height="280" alt="GIF">
 
 <p align="top"> <img src="https://komarev.com/ghpvc/?username=hamantjagwan&label=Profile%20views&color=0e75b6&style=flat" alt="hamantjagwan" /> </p>
 
