@@ -6,6 +6,13 @@
 
 <p align="top"> <img src="https://komarev.com/ghpvc/?username=hamantjagwan&label=Profile%20views&color=0e75b6&style=flat" alt="hamantjagwan" /> </p>
 
+🚀 What's interesting is that I don't hold a B.tech or MCA degree. Instead, I found myself teaching a B.tech friend how to navigate questions using window functions. 
+
+📖 This experience triggered a realization – **learning isn't confined to degrees; it thrives on curiosity**. 🤔🎓
+I'm passionate about data. 
+
+🔥 **Let's embrace the power of curiosity!* 🌟  
+
 - 🌱 I’m currently learning **Machine Learning**
 
 - 💬 Ask me about **Excel , Power BI , SQL**
