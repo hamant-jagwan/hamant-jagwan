@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hamant Jagwan</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
+<h3 align="center">A passionate Data Enthusiast from India</h3>
 
 
 <img align="right" img src="https://capturly.com/blog/wp-content/uploads/2018/02/Data-Website-Analytics.gif" width="350" height="300" alt="GIF">
